@@ -12,7 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my Podcast" />
-        <p className="This is my Passion Project Podcast About Fishing">
+        <p className="description">
+This is my Passion Project Podcast About Fishing
         </p>
       </main>
 
