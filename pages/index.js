@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
+        <Header title="Welcome to my Podcast" />
+        <p className="This is my Passion Project Podcast About Fishing">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
